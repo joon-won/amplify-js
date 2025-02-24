@@ -3,6 +3,62 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.11.1](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/auth@6.11.0...@aws-amplify/auth@6.11.1) (2025-02-20)
+
+**Note:** Version bump only for package @aws-amplify/auth
+
+# [6.11.0](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/auth@6.10.2...@aws-amplify/auth@6.11.0) (2025-02-12)
+
+### Bug Fixes
+
+- **auth:** update FetchDevicesOutput output type to include name attribute ([#14186](https://github.com/aws-amplify/amplify-js/issues/14186)) ([289f3e8](https://github.com/aws-amplify/amplify-js/commit/289f3e8d1bbf8c95abffb553b612699f43cdccb5))
+
+### Features
+
+- support server-side auth flows with Cognito managed login ([#14168](https://github.com/aws-amplify/amplify-js/issues/14168)) ([825d338](https://github.com/aws-amplify/amplify-js/commit/825d338021964a48ffab07d7b5961c5afa63a50e)), closes [#13788](https://github.com/aws-amplify/amplify-js/issues/13788) [#13801](https://github.com/aws-amplify/amplify-js/issues/13801) [#13827](https://github.com/aws-amplify/amplify-js/issues/13827) [#13839](https://github.com/aws-amplify/amplify-js/issues/13839) [#13840](https://github.com/aws-amplify/amplify-js/issues/13840) [#13841](https://github.com/aws-amplify/amplify-js/issues/13841) [#14103](https://github.com/aws-amplify/amplify-js/issues/14103) [#14112](https://github.com/aws-amplify/amplify-js/issues/14112) [#14114](https://github.com/aws-amplify/amplify-js/issues/14114) [#14115](https://github.com/aws-amplify/amplify-js/issues/14115) [#14119](https://github.com/aws-amplify/amplify-js/issues/14119) [#14125](https://github.com/aws-amplify/amplify-js/issues/14125) [#14116](https://github.com/aws-amplify/amplify-js/issues/14116) [#14134](https://github.com/aws-amplify/amplify-js/issues/14134) [#14132](https://github.com/aws-amplify/amplify-js/issues/14132) [#14141](https://github.com/aws-amplify/amplify-js/issues/14141) [#14152](https://github.com/aws-amplify/amplify-js/issues/14152) [#14169](https://github.com/aws-amplify/amplify-js/issues/14169)
+
+## [6.10.2](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/auth@6.10.1...@aws-amplify/auth@6.10.2) (2025-02-04)
+
+**Note:** Version bump only for package @aws-amplify/auth
+
+## [6.10.1](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/auth@6.10.0...@aws-amplify/auth@6.10.1) (2025-01-24)
+
+### Bug Fixes
+
+- **auth:** Setting Store Tokens should only clear tokens that no longer have a value ([#13584](https://github.com/aws-amplify/amplify-js/issues/13584)) ([3606482](https://github.com/aws-amplify/amplify-js/commit/3606482c980766466f2c3f27bd4887c550897c26))
+
+# [6.10.0](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/auth@6.9.1...@aws-amplify/auth@6.10.0) (2025-01-14)
+
+### Bug Fixes
+
+- **deps:** avoid using implicit dependencies for auth ([#14122](https://github.com/aws-amplify/amplify-js/issues/14122)) ([f2a0b74](https://github.com/aws-amplify/amplify-js/commit/f2a0b74bfac5f10014e644c509d5cff5d5da9e59))
+
+### Features
+
+- **Auth:** Allow sending login_hint, lang and nonce on signInWithRedirects ([#14089](https://github.com/aws-amplify/amplify-js/issues/14089)) ([a4063a1](https://github.com/aws-amplify/amplify-js/commit/a4063a177a802c86624faf0c4b605c75164b8641)), closes [#8951](https://github.com/aws-amplify/amplify-js/issues/8951)
+
+## [6.9.1](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/auth@6.9.0...@aws-amplify/auth@6.9.1) (2025-01-03)
+
+**Note:** Version bump only for package @aws-amplify/auth
+
+# [6.9.0](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/auth@6.8.3...@aws-amplify/auth@6.9.0) (2024-12-19)
+
+### Features
+
+- **auth:** Enable resumable SignIn ([#13855](https://github.com/aws-amplify/amplify-js/issues/13855)) ([#14074](https://github.com/aws-amplify/amplify-js/issues/14074)) ([fe315be](https://github.com/aws-amplify/amplify-js/commit/fe315be4da6d814f2b802cf1acbb00513ca238ac))
+
+## [6.8.3](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/auth@6.8.2...@aws-amplify/auth@6.8.3) (2024-12-12)
+
+**Note:** Version bump only for package @aws-amplify/auth
+
+## [6.8.2](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/auth@6.8.1...@aws-amplify/auth@6.8.2) (2024-12-03)
+
+**Note:** Version bump only for package @aws-amplify/auth
+
+## [6.8.1](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/auth@6.8.0...@aws-amplify/auth@6.8.1) (2024-12-03)
+
+**Note:** Version bump only for package @aws-amplify/auth
+
 # [6.8.0](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/auth@6.7.0...@aws-amplify/auth@6.8.0) (2024-11-25)
 
 ### Features
