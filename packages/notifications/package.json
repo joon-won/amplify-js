@@ -1,6 +1,6 @@
 {
 	"name": "@joonwonc/notifications",
-	"version": "2.0.73",
+	"version": "2.1.0",
 	"description": "Notifications category of aws-amplify",
 	"main": "./dist/cjs/index.js",
 	"module": "./dist/esm/index.mjs",
@@ -100,7 +100,7 @@
 	},
 	"devDependencies": {
 		"@aws-amplify/core": "6.10.4",
-		"@aws-amplify/react-native": "1.1.7",
+		"@aws-amplify/react-native": "1.1.8",
 		"typescript": "5.0.2"
 	}
 }

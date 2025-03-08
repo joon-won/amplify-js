@@ -1,6 +1,6 @@
 {
 	"name": "@joonwonc/interactions",
-	"version": "6.1.14",
+	"version": "6.2.0",
 	"description": "Interactions category of aws-amplify",
 	"main": "./dist/cjs/index.js",
 	"module": "./dist/esm/index.mjs",
