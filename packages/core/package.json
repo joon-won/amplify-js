@@ -1,5 +1,5 @@
 {
-	"name": "@aws-amplify/core",
+	"name": "@joonwonc/core",
 	"version": "6.10.4",
 	"description": "Core category of aws-amplify",
 	"main": "./dist/cjs/index.js",

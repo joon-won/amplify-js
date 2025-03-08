@@ -1,5 +1,5 @@
 {
-	"name": "@aws-amplify/storage",
+	"name": "@joonwonc/storage",
 	"version": "6.7.14",
 	"description": "Storage category of aws-amplify",
 	"main": "./dist/cjs/index.js",

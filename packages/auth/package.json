@@ -1,5 +1,5 @@
 {
-	"name": "@aws-amplify/auth",
+	"name": "@joonwonc/auth",
 	"version": "6.11.4",
 	"description": "Auth category of aws-amplify",
 	"main": "./dist/cjs/index.js",

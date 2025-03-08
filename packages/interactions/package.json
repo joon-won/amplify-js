@@ -1,5 +1,5 @@
 {
-	"name": "@aws-amplify/interactions",
+	"name": "@joonwonc/interactions",
 	"version": "6.1.14",
 	"description": "Interactions category of aws-amplify",
 	"main": "./dist/cjs/index.js",

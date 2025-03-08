@@ -1,5 +1,5 @@
 {
-	"name": "@aws-amplify/datastore",
+	"name": "@joonwonc/datastore",
 	"version": "5.0.75",
 	"description": "AppSyncLocal support for aws-amplify",
 	"main": "./dist/cjs/index.js",

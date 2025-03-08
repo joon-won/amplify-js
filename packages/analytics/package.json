@@ -1,5 +1,5 @@
 {
-	"name": "@aws-amplify/analytics",
+	"name": "@joonwonc/analytics",
 	"version": "7.0.73",
 	"description": "Analytics category of aws-amplify",
 	"main": "./dist/cjs/index.js",

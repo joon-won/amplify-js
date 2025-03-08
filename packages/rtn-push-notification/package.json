@@ -1,5 +1,5 @@
 {
-	"name": "@aws-amplify/rtn-push-notification",
+	"name": "@joonwonc/rtn-push-notification",
 	"version": "1.2.33",
 	"description": "React Native module for aws-amplify push notifications",
 	"main": "./dist/cjs/index.js",
