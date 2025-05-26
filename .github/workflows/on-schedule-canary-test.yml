@@ -1,9 +1,10 @@
 on:
   # Tests scheduled at 3pm(UTC) / 8am(PDT) everyday
   # default supported timezone is UTC
-  schedule:
-    - cron: '0 15 * * *'
-
+  # schedule:
+  #  - cron: '0 15 * * *'
+  workflow_dispatch:  
+  
 jobs:
   canaries:
     secrets: inherit
